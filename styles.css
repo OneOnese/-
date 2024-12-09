@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Mali:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Niramit:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+    body {
+        background-image: url("download.jpg");
+    }
+
+    .profile-pic {
+        width: 300px;
+        height: auto;
+        border-radius: 50%;
+        /* ทำให้รูปภาพเป็นวงกลม */
+        margin: auto;
+        display: block;
+        border: 3px solid #ddd;
+        /* เพิ่มเส้นขอบสีเทาอ่อน */
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        /* เพิ่มเงาเล็กน้อย */
+    }
+
+    .container {
+        width: 60%;
+        margin: auto;
+        background-image: url("download\ \(1\).jpg");
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin-top: 50px;
+    }
+
+
+    body {
+        font-family: "Mali", cursive;
+        font-weight: 200;
+        font-style: normal;
+        background-color: #f69988;
+        margin: 0;
+        padding: 0;
+    }
+
+    h2,
+    h3 {
+        font-family: "Mali", cursive;
+        font-weight: 500;
+        font-style: normal;
+        text-align: center;
+        color: #311b92
+    }
+
+    h1 {
+        font-family: "Mali", cursive;
+        font-weight: 700;
+        font-style: normal;
+        text-align: center;
+        color: #311b92
+    }
+
+    h1 {
+        text-shadow: 2px 2px rgb(174, 160, 255);
+    }
+
+    p {
+        font-family: "Mali", cursive;
+        font-weight: 700;
+        font-style: normal;
+        text-align: center;
+        color: #0b41a7
+    }
+
+    table {
+        color: #1a1a1a
+        font-family: "Mali", cursive;
+        font-weight: 700;
+    }
